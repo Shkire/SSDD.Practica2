@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.ssdd.practica2;
+package com.danieles.ssdd_practica2;
 
 import com.flickr4java.flickr.*;
 import com.flickr4java.flickr.photos.*;
